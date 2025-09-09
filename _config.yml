@@ -48,7 +48,7 @@ features                                  :
     
   - title                                 : Privacy first
     description                           : Your data is stored securely on your devices and in your iCloud account only. No data is processed or sent to other third parties.
-    fontawesome_icon_name                 : shield
+    fontawesome_icon_name                 : lock
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description

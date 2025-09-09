@@ -48,7 +48,7 @@ features                                  :
     
   - title                                 : Privacy first
     description                           : Your data is stored securely on your devices and in your iCloud account only. No data is processed or sent to other third parties.
-    fontawesome_icon_name                 : shield-halved
+    fontawesome_icon_name                 : shield
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
@@ -65,7 +65,7 @@ cover_image                               : assets/headerimage.png              
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
-device_color                              : coral                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : white                                     # Set to: blue, black, yellow, coral or white.
 
 body_background_color                     : "#ffffff"
 

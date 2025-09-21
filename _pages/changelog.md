@@ -10,8 +10,14 @@ See what changed in my app releases so far
 <br>
 
 ### `Latest`
+# **Version 1.1.0**
+This first App Store release marks a huge milestone after months of hard work and refinement. I’m truly excited to see how it will be received! 🚀
+
+#### What's New
+- activity history for tracking repairs, inspections and purchases for your bike
+
 # **Version 1.0.0**
-This is the initial app store release which was a big milestone after working and refining on this app for months. I am super excited how this will go down ;) 
+The initial release which never made it to the App Store. 
 
 #### What's New
 - adding, updating and removing bike information

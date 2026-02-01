@@ -10,6 +10,14 @@ See what changed in my app releases so far
 <br>
 
 ### `Latest`
+# **Version 1.3.0**
+- bike list is now searchable
+- search behavior is unified between bike list and activities
+- setting no purchase date caused activities panel to be permanently hidden
+
+# **Version 1.2.0**
+- activities can be edited and deleted
+
 # **Version 1.1.0**
 This first App Store release marks a huge milestone after months of hard work and refinement. I’m truly excited to see how it will be received! 🚀
 
